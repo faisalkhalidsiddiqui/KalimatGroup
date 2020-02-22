@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<string>قريب</string>
+		<key>sentence</key>
+		<string>أَقَرطُوس، سَلِّم على الأَصْدِقَاءِ لِنَبدَأَ اللُّعبَةَ!</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>بعيد</string>
+		<key>sentence</key>
+		<string>أَيَا سَائِقَ الدَّرَّاجَةِ، انْعَطِف يَمِينًا الآن.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>قريب</string>
+		<key>sentence</key>
+		<string>أَي قَرطُوس، أدَاةُ النِّداءِ هُناكَ في المُنتَصَفِ.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>بعيد</string>
+		<key>sentence</key>
+		<string>هَیَا صَدِیقِي، لا تُضِع أَدَاةَ النِّدَاءِ، إِنَّهَا إلى یَمِینِك.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>بعيد</string>
+		<key>sentence</key>
+		<string>يَا قَرطُوس! تَعَالَ والتقِطِ الكُرَةَ.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>قريب</string>
+		<key>sentence</key>
+		<string>يَا صَدِيقي، كَم أَنتَ مَاهِرٌ في هَذِه اللُّعبَةِ.</string>
+	</dict>
+</array>
+</plist>
